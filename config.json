@@ -1,0 +1,7 @@
+{
+    "parameter_replacements": {
+        "BV421-A": "DAPI-eF450-A",
+        "APC-A": "eF660-A"
+    },
+    "flip_width_height": true
+}
